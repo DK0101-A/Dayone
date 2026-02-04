@@ -1,7 +1,1 @@
-# DayOne
-
-DayOne - Identity-driven habit app based on dan cok's theory
-
-## Quick Start
-
-
+# DayOne\n\nIdentity-driven habit app based on dan cok's theory.\n\n## Overview\n\nDayOne is a Flutter application that helps users build habits through identity-based motivation.\n\n## Features\n\n- Identity-driven habit building\n- Gamification system\n- Progress tracking\n- Achievement system
