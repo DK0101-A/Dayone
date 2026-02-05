@@ -1,0 +1,5 @@
+# This file serves as the starting point for your internationalization support.
+# Flutter's built-in localization system looks for .arb files in the lib/l10n directory.
+
+# For more information on Flutter's internationalization support, see:
+# https://docs.flutter.dev/development/accessibility-and-localization/internationalization
